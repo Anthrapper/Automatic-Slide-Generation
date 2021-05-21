@@ -1,0 +1,4 @@
+rouge
+tenserflow==1.15
+numpy
+nltk
